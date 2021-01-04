@@ -26,7 +26,7 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 **Step 1** - <span style="color:red"> Email me the photo(s) you'd like me to work on. My email is: greatsandyeagle@gmail.com </span>  
 **Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. If you do NOT receive a reply from me within 24hrs, double check if my email address is entered correctly. Feel free to contact me for any problems.
 
-## <span style="color:#0076bf"> Preview the artwork and Purchase if you are satisfied </span>
+## <span style="color:#0076bf"> Preview the artwork and Purchase if you like it </span>
 - Within 2 days after the photo is received, I will send you part of the line art(say, 50%) that I complete.    
 - If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
 - **Payment: PayPal**
