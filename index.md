@@ -10,16 +10,36 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 
 **FYI: <span style="color:red">You don't have to pay until you are satisfied with the digital portrait that I show to you!</span>**
 
-**Step 1** - ssss email me the photo(s) that you'd like me to work on. My email is: greatsandyeagle@gmail.com  (I know it's a long address so please double check before you send the photo!)    
+**Step 1** - Email me the photo(s) that you'd like me to work on. My email is: greatsandyeagle@gmail.com  (I know it's a long address so please double check before you send the photo!)    
 **Step 2** - xxx    send you a message to confirm that the photo is successfully received.
-**Step 3** - yyy  paypal:
+
+## Place an Order in only Two Steps!
+**Step 1** - Email me the photo(s) you'd like me to work on. My email is: greatsandyeagle@gmail.com   
+**Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. I'll finish the work within 2 days.    
+
+
+## Preview the artwork and Purchase if you are satisfied!
+- Within 2 days after the photo is received, I will send you part of the line art(say, 50%) that I complete.    
+- If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
+- **Payment: PayPal**
+- After the payment is received, I will send you the full image in PNG format.
+
+The default setting is: black line + white background. You are free to choose line color, background color, file formats, etc. Just let me know!
 
 # What You'll Get
-TWO high-resolution (300dpi) PNG files: One with the background color you choose (default: white) and Another with transparent background. 
+High-resolution (300dpi) PNG files: One with the background color you choose (default: white) and Another with transparent background. 
 If you request several color options, you'll then get more files (with no extra cost!).
 
 # Price
-The price for a single photo depends on the number of subjects and background details.
+See the list below for the price for a single photo, depending on the number of subjects and background details. We can discuss what to include in the rendering.
+
+- 1 subject + No/Simple/Complicated background: $7/$9/$11
+- 2 subjects + No/Simple/Complicated background: $11/$13/$15
+- 3 subjects + No/Simple/Complicated background: $15/$17/$19
+- 4 subjects + No/Simple/Complicated background: $19/$21/$23
+- N subjects + No/Simple/Complicated background: $(4N+3)/$(4N+5)/$(4N+7)
+- Online Meeting Style: $33
+
 
 # Processing Time
 Within 48 hours(aka 2 days) from the time I receive your photo. Make sure my email address is entered correctly!
@@ -31,21 +51,7 @@ Just let me know if you have any questions or specific needs! Price? File format
 
 ## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+mmm
 ```markdown
-Syntax highlighted code block
-
-
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/greatsandyeagle/sdart.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
