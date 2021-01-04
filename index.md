@@ -8,7 +8,7 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 
 # How to Order
 
-**FYI: You don't have to pay until I show you the artwork!**
+**FYI: <span style="color:red">You don't have to pay until I show you the artwork!</span>**
 
 **Step 1** - ssss email me the photo(s) that you'd like me to work on. My email is: greatsandyeagle@gmail.com  (I know it's a long address so please double check before you send the photo!)    
 **Step 2** - xxx    
