@@ -1,8 +1,6 @@
-# Custom Line Art from Your Photo!
+# Custom Art from Your Photo!
 
 You can use the [editor on GitHub](https://github.com/greatsandyeagle/sdart.github.io/edit/gh-pages/index.md) 
-
-GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site
 
 Whether you are looking for an artistic portrait of your family, a cool print to store the sweet moments in your life, a special gift for your friends, this shop is for you! Check out the gallery [Here](https://jekyllrb.com/)
 
