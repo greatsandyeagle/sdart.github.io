@@ -1,6 +1,6 @@
 # Custom Art from Photo
 
-Whether you are looking for an artistic portrait of your loved ones, or a special gift for your friends, this shop is for you! Check out the gallery [Here](https://jekyllrb.com/)
+Whether you are looking for an artistic portrait of your loved ones, or a special gift for your friends, this shop is for you!
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
 
