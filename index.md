@@ -1,18 +1,18 @@
-# <span style="color:fdf485"> Custom Art from Your Photo! </span>
+# <span style="color:fdf485"> Custom Art from Photo! </span>
 
-Whether you are looking for an artistic portrait of your family, a cool print to store the sweet moments in your life, a special gift for your friends, this shop is for you! Check out the gallery [Here](https://jekyllrb.com/)
+Whether you are looking for a line portrait of your family, a cool print to store the sweet moments in your life, a special gift for your friends, this shop is for you! Check out the gallery [Here](https://jekyllrb.com/)
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
 
 
 <div class="image-row">
 			<div class="image-set">
-				<a class="example-image-link" href="./gallery/ex1.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex1.jpg" alt="Example 1" width="150" height="120"/></a>
-				<a class="example-image-link" href="./gallery/ex2.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex2.jpg" alt="Example 2" width="150" height="120"/></a>
-				<a class="example-image-link" href="./gallery/ex3.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex3.jpg" alt="Example 3" width="150" height="120"/></a>
-				<a class="example-image-link" href="./gallery/ex4.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex4.jpg" alt="Example 4" width="150" height="120"/></a>
-				<a class="example-image-link" href="./gallery/ex5.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex5.jpg" alt="Example 5" width="150" height="120"/></a>
-				<a class="example-image-link" href="./gallery/ex6.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex6.jpg" alt="Example 6" width="150" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex1.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex1.jpg" alt="Example 1" width="180" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex2.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex2.jpg" alt="Example 2" width="180" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex3.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex3.jpg" alt="Example 3" width="180" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex4.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex4.jpg" alt="Example 4" width="180" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex5.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex5.jpg" alt="Example 5" width="180" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex6.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex6.jpg" alt="Example 6" width="180" height="120"/></a>
 			</div>
 </div>
     
