@@ -1,4 +1,4 @@
-# Custom Line Art from Your Photo!
+## Custom Line Art from Your Photo!
 
 You can use the [editor on GitHub](https://github.com/greatsandyeagle/sdart.github.io/edit/gh-pages/index.md) 
 
@@ -8,7 +8,7 @@ Whether you are looking for an artistic portrait of your family, a cool print to
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
 
-# How it Works
+## How it Works
 
 **FYI: You don't have to pay until I show you the artwork!**
 
@@ -16,18 +16,18 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 **Step 2** - xxx    
 **Step 3** - yyy  paypal:
 
-# What You'll Get
+## What You'll Get
 TWO high-resolution (300dpi) PNG files: One with the background color you choose (default: white) and Another with transparent background. 
 If you request several color options, you'll then get more files (with no extra cost!).
 
-# Price
+## Price
 The price for a single photo depends on the number of subjects and background details.
 
-# Processing Time
+## Processing Time
 Within 48 hours(aka 2 days) from the time I receive your photo. Make sure my email address is entered correctly!
 Speed-up service is also available. Just let me know!
 
-# Questions?
+## Questions?
 Just let me know if you have any questions or specific needs! Price? File format? Color? Feel free to contact me:
 [contact support](https://github.com/contact)
 
