@@ -24,21 +24,19 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 The default setting is: black line + white background. You are free to choose line color, background color, file formats, etc. Just let me know!
 
 # What You'll Get
-High-resolution (300dpi) PNG files: 
+High-resolution (300dpi) PNG files:   
 - One with the background color you choose (default: white).
-- One with transparent background. 
+- One with transparent background.    
 If you request several color options, you'll then get more files (with no extra cost!).
 
 # Price
-See the list below for the price for a single photo, depending on the number of subjects and background details. We can discuss what to include in the rendering.
-
+See the list below for the price for a single photo, depending on the number of subjects and background details. We can discuss what to include in the rendering.   
 - 1 subject + No/Simple/Fancy background: $7/$9/$11
 - 2 subjects + No/Simple/Fancy background: $11/$13/$15
 - 3 subjects + No/Simple/Fancy background: $15/$17/$19
 - 4 subjects + No/Simple/Fancy background: $19/$21/$23
 - N subjects + No/Simple/Fancy background: $(4N+3)/$(4N+5)/$(4N+7)
 - Online Meeting Style: $33
-
 
 # Processing Time
 Within 48 hours(aka 2 days) from the time I receive your photo. Make sure my email address is entered correctly!
