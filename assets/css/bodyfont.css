@@ -14,3 +14,8 @@ a {
 a:hover {
   color: #59ffeb;
 }
+
+pre {
+  background-color: #2b2b2b; 
+  font: 13px "Andale Mono", "DejaVu Sans Mono", monospace;
+}
