@@ -1,7 +1,5 @@
 # Custom Art from Your Photo!
 
-You can use the [editor on GitHub](https://github.com/greatsandyeagle/sdart.github.io/edit/gh-pages/index.md) 
-
 Whether you are looking for an artistic portrait of your family, a cool print to store the sweet moments in your life, a special gift for your friends, this shop is for you! Check out the gallery [Here](https://jekyllrb.com/)
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
@@ -46,9 +44,8 @@ Speed-up service is available. Just let me know!
 Just let me know if you have any questions or specific needs! Price? File format? Color? Feel free to contact me:
 [contact support](https://github.com/contact)
 
-## Markdown
 
-mmm
-```markdown
+
+<!-- ```markdown
 [Link](url) and ![Image](src)
-```
+``` -->
