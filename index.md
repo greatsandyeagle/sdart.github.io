@@ -47,7 +47,7 @@ See the list below for the price for a single photo, depending on the complexity
 - 3 subjects + No/Simple/Fancy background: $15/$17/$19
 - 4 subjects + No/Simple/Fancy background: $19/$21/$23
 - N subjects + No/Simple/Fancy background: $(4N+3)/$(4N+5)/$(4N+7)
-- Online Meeting Style: $33
+- Online Meeting Style (see Example 6 in the gallery above): $33
 
 # Turnaround 
 Within 48 hours(aka 2 days) from the time I receive your photo. Make sure my email address is entered correctly!
