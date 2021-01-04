@@ -8,10 +8,10 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 
 # How to Order
 
-**FYI: <span style="color:red">You don't have to pay until I show you the artwork!</span>**
+**FYI: <span style="color:red">You don't have to pay until you are satisfied with the digital portrait that I show to you!</span>**
 
 **Step 1** - ssss email me the photo(s) that you'd like me to work on. My email is: greatsandyeagle@gmail.com  (I know it's a long address so please double check before you send the photo!)    
-**Step 2** - xxx    
+**Step 2** - xxx    send you a message to confirm that the photo is successfully received.
 **Step 3** - yyy  paypal:
 
 # What You'll Get
