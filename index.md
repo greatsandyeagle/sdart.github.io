@@ -54,8 +54,9 @@ Within 48 hours(aka 2 days) from the time I receive your photo. Make sure my ema
 Speed-up service is available. Just let me know!
 
 #  Questions? 
-Just let me know if you have any questions or specific needs! Price? File format? Color? Feel free to contact me:
-[contact support](https://github.com/contact)
+Price? Color? File format? Whenever you have a question, feel free to contact me at:
+greatsandyeagle@gmail.com
+[contact me](greatsandyeagle@gmail.com)
 
 
 <!-- ```markdown
