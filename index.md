@@ -19,7 +19,7 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 - Within 2 days after the photo is received, I will send you part of the line art(say, 50%) that I complete.    
 - If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
 - **Payment: PayPal**
-- After the payment is received, I will send you the full image in PNG format.
+- After the payment is received, I will send you the full image in the format you choose (default: PNG).
 
 The default setting is: black line + white background. You are free to choose line color, background color, file formats, etc. Just let me know!
 
