@@ -27,7 +27,7 @@ The default setting is: black line + white background. You are free to choose li
 High-resolution (300dpi) PNG files:   
 - One with the background color you choose (default: white).
 - One with transparent background.    
-If you request several color options, you'll then get more files (with no extra cost!).
+- If you request several color options, you'll then get more files (with no extra cost!).
 
 # Price
 See the list below for the price for a single photo, depending on the number of subjects and background details. We can discuss what to include in the rendering.   
