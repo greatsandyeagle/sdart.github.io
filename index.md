@@ -4,6 +4,19 @@ Whether you are looking for an artistic portrait of your family, a cool print to
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
 
+
+<div class="image-row">
+			<div class="image-set">
+				<a class="example-image-link" href="./gallery/ex1.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex1.jpg" alt="Example 1" width="150" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex2.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex2.jpg" alt="Example 2" width="150" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex3.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex3.jpg" alt="Example 3" width="150" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex4.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex4.jpg" alt="Example 4" width="150" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex5.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex5.jpg" alt="Example 5" width="150" height="120"/></a>
+				<a class="example-image-link" href="./gallery/ex6.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex6.jpg" alt="Example 6" width="150" height="120"/></a>
+			</div>
+</div>
+    
+
 # How to Order
 
 **FYI: <span style="color:red">You don't have to pay until you are satisfied with the line portrait!</span>**
@@ -44,17 +57,6 @@ Speed-up service is available. Just let me know!
 Just let me know if you have any questions or specific needs! Price? File format? Color? Feel free to contact me:
 [contact support](https://github.com/contact)
 
-<div class="image-row">
-			<div class="image-set">
-				<a class="example-image-link" href="./gallery/ex1.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex1.jpg" alt="Example 1" width="150" height="150"/></a>
-				<a class="example-image-link" href="./gallery/ex2.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex2.jpg" alt="Example 2" width="150" height="150"/></a>
-				<a class="example-image-link" href="./gallery/ex3.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex3.jpg" alt="Example 3" width="150" height="150"/></a>
-				<a class="example-image-link" href="./gallery/ex4.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex4.jpg" alt="Example 4" width="150" height="150"/></a>
-				<a class="example-image-link" href="./gallery/ex5.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex5.jpg" alt="Example 5" width="150" height="150"/></a>
-				<a class="example-image-link" href="./gallery/ex6.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex6.jpg" alt="Example 6" width="150" height="150"/></a>
-			</div>
-</div>
-    
 
 <!-- ```markdown
 [Link](url) and ![Image](src)
