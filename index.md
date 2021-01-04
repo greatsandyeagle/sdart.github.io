@@ -36,9 +36,9 @@ The default setting is: black line + white background. You are free to choose li
 
 # <span style="color:fdf485"> What You'll Get </span>
 High-resolution (300dpi) PNG files:   
-One with the background color you choose (default: white).    
-One with transparent background.     
-If you request several color options, you'll then get more files (with no extra cost!).
+- One with the background color you choose (default: white).    
+- One with transparent background.     
+- If you request several color options, you'll then get more files (with no extra cost!).
 
 # <span style="color:fdf485"> Price </span>
 See the list below for the price for a single photo, depending on the complexity of rendering. We can discuss what to include in the portrait and customize a price for you.   
