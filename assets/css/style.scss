@@ -3,3 +3,8 @@
 
 @import "{{ site.theme }}";
 body{font-size: large;}
+h1, h2, h3, h4, h5, h6{
+    color: #f5f5f5;  
+    font-weight: bolder;
+    font-size: medium;
+}
