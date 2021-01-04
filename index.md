@@ -17,7 +17,7 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 </div>
     
 
-# <span style="color:#fdf485"> How to Order </span>
+# How to Order
 
 **FYI: <span style="color:red">You don't have to pay until you are satisfied with the line portrait!</span>**
 
