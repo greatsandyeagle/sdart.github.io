@@ -8,7 +8,9 @@ Whether you are looking for an artistic portrait of your family, a cool print to
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
 
-# How to Purchase
+# How it Works
+
+**FYI: You don't have to pay until I show you the artwork!**
 
 **Step 1** - ssss email me the photo(s) that you'd like me to work on. My email is: greatsandyeagle@gmail.com  (I know it's a long address so please double check before you send the photo!)    
 **Step 2** - xxx    
