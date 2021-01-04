@@ -1,4 +1,4 @@
-# <span style="color:fdf485"> Custom Art from Photo! </span>
+# <span style="color:fdf485"> Custom Art from Photo </span>
 
 Whether you are looking for an artistic portrait of your loved ones, or a special gift for your friends, this shop is for you! Check out the gallery [Here](https://jekyllrb.com/)
 
