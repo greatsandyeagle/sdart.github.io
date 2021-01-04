@@ -1,5 +1,5 @@
 # sdart.github.io
-Welcome to my art shop. I'm a line artist transforming your photo into a digital line portrait (high-resolution PNGs or other file formats).
+Welcome to my art shop. I'm a line artist transforming your photo into a digital line portrait (hand-drawn, high-resolution PNGs or other file formats).
 
 How to purchase:  
 *Step 1*. Send me a photo you'd like me to work on.  
