@@ -30,7 +30,7 @@ High-resolution (300dpi) PNG files:
 - If you request several color options, you'll then get more files (with no extra cost!).
 
 # Price
-See the list below for the price for a single photo, depending on the number of subjects and background details. We can discuss what to include in the rendering.   
+See the list below for the price for a single photo, depending on the complexity of rendering. We can discuss what to include in the portrait and customize a price for you.   
 - 1 subject + No/Simple/Fancy background: $7/$9/$11
 - 2 subjects + No/Simple/Fancy background: $11/$13/$15
 - 3 subjects + No/Simple/Fancy background: $15/$17/$19
