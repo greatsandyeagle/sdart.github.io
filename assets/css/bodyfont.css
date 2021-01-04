@@ -5,3 +5,12 @@ textarea {
   font-size: 18px;
   font-family: "Karla", "lucida grande", sans-serif;
 }
+
+a {
+  color: #00bfa8;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #59ffeb;
+}
