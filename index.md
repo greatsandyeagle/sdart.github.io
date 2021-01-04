@@ -46,8 +46,12 @@ Just let me know if you have any questions or specific needs! Price? File format
 
 <div class="image-row">
 			<div class="image-set">
-				<a class="example-image-link" href="./art/img58.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./art/img58.jpg" alt="masterpiece" width="150" height="150"/></a>
-				<a class="example-image-link" href="./art/img57.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./art/img57.jpg" alt="masterpiece" width="150" height="150"/></a>
+				<a class="example-image-link" href="./gallery/ex1.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex1.jpg" alt="Example 1" width="150" height="150"/></a>
+				<a class="example-image-link" href="./gallery/ex2.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex2.jpg" alt="Example 2" width="150" height="150"/></a>
+				<a class="example-image-link" href="./gallery/ex3.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex3.jpg" alt="Example 3" width="150" height="150"/></a>
+				<a class="example-image-link" href="./gallery/ex4.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex4.jpg" alt="Example 4" width="150" height="150"/></a>
+				<a class="example-image-link" href="./gallery/ex5.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex5.jpg" alt="Example 5" width="150" height="150"/></a>
+				<a class="example-image-link" href="./gallery/ex6.jpg" data-lightbox="example-set" title="Click the right/left side to move forward/backward."><img class="example-image" src="./gallery/ex6.jpg" alt="Example 6" width="150" height="150"/></a>
 			</div>
 </div>
     
