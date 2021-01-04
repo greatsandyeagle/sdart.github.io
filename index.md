@@ -9,6 +9,10 @@ Message me with a nice photo and I'll turn it into an **HD hand-drawn line portr
 **FYI: <span style="color:red">You don't have to pay until you are satisfied with the line portrait!</span>**
 
 ## Place an Order in Two Steps!
+```markdown
+**Step 1** - Email me the photo(s) you'd like me to work on. My email is: greatsandyeagle@gmail.com   
+**Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. I'll finish the work within 2 days.    
+``` 
 **Step 1** - Email me the photo(s) you'd like me to work on. My email is: greatsandyeagle@gmail.com   
 **Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. I'll finish the work within 2 days.    
 
