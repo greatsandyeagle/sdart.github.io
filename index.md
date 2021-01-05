@@ -1,6 +1,6 @@
 # Custom Art from Photo
 
-Whether you are looking for an artistic portrait of your loved ones, or a special gift for your friends, this shop is for you!
+I love art. It brings me great pleasure if I can create something that makes others happy. Whether you are looking for an artistic portrait of your loved ones, or a special gift for your friends, look no further!
 
 Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
 
