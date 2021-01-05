@@ -31,7 +31,7 @@ Send me a cool photo and I'll turn it into a **hand-drawn line portrait in a dig
 - If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
 - **Pay through PayPal:** 
 <a href="https://www.paypal.com/paypalme/sdart4u" target="_blank"> <img src="/assets/icons/pay.png" alt="pay" width="50" height="57"/></a>
-- After the payment is received, I will send you the full image in the format you choose (default: PNG).
+- Once the payment is received, I will send you the full image in the format you choose (default: PNG).
 
 The default setting is: black line + white background. You are free to choose line color, background color, file formats, etc. Just let me know!
 
