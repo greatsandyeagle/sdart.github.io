@@ -1,6 +1,6 @@
 # Custom Art from Photo
 
-I love art. It brings me great pleasure if I can create something that makes others happy. Whether you are thinking of an artistic portrait of your loved ones, or a special gift for your friends, look no further!
+Welcome! Sandy Eagle here! I love art. It brings me great pleasure if I can create something that makes others happy. Whether you are thinking of an artistic portrait of your loved ones, or a special gift for your friends, look no further!
 
 Send me a cool photo and I'll turn it into a **hand-drawn line portrait in a digital format** (say, PNG). You can then print it, frame it, light up your home!
 
