@@ -8,3 +8,10 @@ h1, h2, h3, h4, h5, h6{
     font-weight: bolder;
     font-size: small;
 }
+.site-title::before {
+	content: url("/alsprolog-logo.png");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
