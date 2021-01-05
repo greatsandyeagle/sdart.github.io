@@ -27,7 +27,7 @@ Email me with a cool photo and I'll turn it into a **hand-drawn line portrait in
 **Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. If you do NOT receive a reply from me within 24hrs, double check if my email address is entered correctly. Feel free to contact me for any problems.
 
 ## <span style="color:#0076bf"> Preview the artwork and Purchase if you like it </span>
-- Within 2 days after the photo is received, I will send you part of the line art(say, 50%) that I complete.    
+- Within 3 days after the photo is received, I will send you part of the line art(say, 50%) that I complete.    
 - If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
 - **Payment: PayPal**
 - After the payment is received, I will send you the full image in the format you choose (default: PNG).
@@ -50,7 +50,7 @@ See the list below for the price for a SINGLE photo that you send. The price dep
 - Online Meeting Style (see Example 6 in the gallery above): $33
 
 # Turnaround 
-Within 48 hours(aka 2 days) from the time I receive your photo. Make sure my email address is entered correctly!
+I will complete the line portrait within 72 hours(aka 3 days) after I receive your photo. Make sure my email address is entered correctly!
 Speed-up service is available. Just let me know!
 
 #  Questions? 
