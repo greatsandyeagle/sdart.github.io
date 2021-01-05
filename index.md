@@ -30,7 +30,7 @@ Email me with a cool photo and I'll turn it into a **hand-drawn line portrait in
 - Within 3 days after the photo is received, I will send you part of the line art(say, 50%) that I complete.    
 - If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
 - **Payment: PayPal** 
-<a href="paypal.me/sdart4u">![sdart4u](/assets/icons/pay.png =50x57)</a>
+<a href="paypal.me/sdart4u"> <img src="/assets/icons/pay.png" alt="pay" width="50" height="57"/></a>
 - After the payment is received, I will send you the full image in the format you choose (default: PNG).
 
 The default setting is: black line + white background. You are free to choose line color, background color, file formats, etc. Just let me know!
