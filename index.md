@@ -2,7 +2,7 @@
 
 I love art. It brings me great pleasure if I can create something that makes others happy. Whether you are looking for an artistic portrait of your loved ones, or a special gift for your friends, look no further!
 
-Message me with a nice photo and I'll turn it into an **HD hand-drawn line portrait in a digital format (say, PNG)**. You can then print it, frame it, light up your home!
+Email me with a cool photo and I'll turn it into a **hand-drawn line portrait in a digital format** (say, PNG). You can then print it, frame it, light up your home!
 
 
 <div class="image-row">
@@ -38,7 +38,7 @@ The default setting is: black line + white background. You are free to choose li
 High-resolution (300dpi) PNG files:   
 - One with the background color you choose (default: white).    
 - One with transparent background.     
-- If you request several color options, you'll then get more files (with no extra cost!).
+- If you request several color options, you'll then get more files (with no extra cost!). Other file formats are also available.
 
 # Price 
 See the list below for the price for a SINGLE photo that you send. The price depends on the complexity of rendering. See gallery above for some examples. We can discuss what to include in the portrait and customize a price for you.   
