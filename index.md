@@ -28,7 +28,7 @@ Send me a cool photo and I'll turn it into a **hand-drawn line portrait in a dig
 
 ## <span style="color:#0076bf"> Preview the artwork and Purchase if you like it </span>
 - I will send you part of the illustration(say, 50%) that I complete, within 3 days after the photo is received.    
-- If you are satisfied with it, start to pay. Otherwise, just let me know how you want me to improve it.    
+- If you are satisfied with it, go ahead to pay. Otherwise, just let me know how you want me to improve it.    
 - **Pay through PayPal:** 
 <a href="https://www.paypal.com/paypalme/sdart4u" target="_blank"> <img src="/assets/icons/pay.png" alt="pay" width="50" height="57"/></a>
 - Once the payment is received, I will send you the full image in the format you choose (default: PNG).
