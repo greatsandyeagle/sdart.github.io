@@ -24,7 +24,7 @@ Send me a cool photo and I'll turn it into a **hand-drawn line portrait in a dig
 ## <span style="color:#0076bf"> Place an Order in Two Steps </span>
 
 **Step 1** - <span style="color:red"> Email me the photo(s) you'd like me to work on. My email is: </span> <span style="color:#ff62b1"> greatsandyeagle@gmail.com </span>    
-**Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. If you do NOT receive a reply from me within 24hrs, double check if my email address is entered correctly. Feel free to contact me for any problems.
+**Step 2** - Chill and wait for my reply! A confirmation will be sent within 24 hours. If you do NOT receive a reply from me within 24hrs, double check if the email address is entered correctly. Feel free to contact me for any problems.
 
 ## <span style="color:#0076bf"> Preview the artwork and Purchase if you like it </span>
 - I will send you part of the illustration(say, 50%) that I complete, within 3 days after the photo is received.    
